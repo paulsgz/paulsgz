@@ -1,9 +1,16 @@
+<img src="https://www.canva.com/design/DAFToW-3hV4/fVjlNW5GAIjIODVp7D4mfw/view?utm_content=DAFToW-3hV4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]([![MasterHead](https://www.canva.com/design/DAFToW-3hV4/fVjlNW5GAIjIODVp7D4mfw/view?utm_content=DAFToW-3hV4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 <h3 align="center">A software and web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulsgz&label=Profile%20views&color=0e75b6&style=flat" alt="paulsgz" /> </p>
 
+- 🔭 I’m currently working on **industry level MERN stack projects**
+
 - 🌱 I’m currently learning **react and typescript**
+
+- 👯 I’m looking to collaborate on **web application projects**
+
+- 💬 Ask me about **working together.**
 
 - 📫 How to reach me **christian.seguiza@yahoo.com**
 
