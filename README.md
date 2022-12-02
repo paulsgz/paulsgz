@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFToW-3hV4/fVjlNW5GAIjIODVp7D4mfw/view?utm_content=DAFToW-3hV4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]([![MasterHead](https://www.canva.com/design/DAFToW-3hV4/fVjlNW5GAIjIODVp7D4mfw/view?utm_content=DAFToW-3hV4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A software and web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
