@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulsgz&label=Profile%20views&color=0e75b6&style=flat" alt="paulsgz" /> </p>
 
-- 🔭 I’m currently working on **industry level MERN stack projects**
+- 🔭 I’m currently working on **full-scale MERN stack projects**
 
 - 🌱 I’m currently learning **react and typescript**
 
