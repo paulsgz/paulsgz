@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A software and web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulsgz&label=Profile%20views&color=0e75b6&style=flat" alt="paulsgz" /> </p>
 
