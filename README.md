@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **full-scale MERN stack projects**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **web application projects**
 
